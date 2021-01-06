@@ -10,7 +10,9 @@
     
     display: grid;
     grid-template-columns: 2fr 6fr;
-    background:black;
+
+    
+    background: black;
     color: white;
 } 
 #name{
@@ -21,12 +23,13 @@
 }
 #web{
     letter-spacing: 0.2em;
+    color:red;
     margin-top:40px;
 }
 #underline{
     width: 435px;
     height: 10px;
     margin-top: 10px;
-    background: #ceced0;
+    background:blue ;
 
 }
